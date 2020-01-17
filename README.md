@@ -5,4 +5,6 @@ This repository contains work completed during Spring 2020 in Dr. Murray's DIG46
 The *ice* folder contains in-class exercises. 
 
 ## About Me
-This should be replaced.
+Hannia Morales
+
+LinkedIn Profile: www.linkedin.com/in/hannia-morales-b22194146
