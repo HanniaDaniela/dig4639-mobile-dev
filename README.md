@@ -11,3 +11,6 @@ Goal-oriented, driven Digital Media graduate with a 3.8 GPA wanting to gain expe
 
 LinkedIn Profile: 
 www.linkedin.com/in/hannia-morales-b22194146
+
+## Conflicts
+This section represents code in the server that isn't on the local repository.
