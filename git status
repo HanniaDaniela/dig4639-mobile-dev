@@ -1,0 +1,71 @@
+[33mcommit 81a3ea6f3bf0407137104deca68b2f33cb4811d7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 22:22:44 2020 -0500
+
+    closes#49
+
+[33mcommit 338ef66308f85e9d388927a8ebdc8461bbd47d65[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 22:21:19 2020 -0500
+
+    commit -m closes#49
+
+[33mcommit 50ff5adb6a8bf7da4631d7099fda1a0e9da68035[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 22:07:13 2020 -0500
+
+    closes#49
+
+[33mcommit 3bfd70a6c19c1a736be7ac06d541d7396f1aae79[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 21:43:53 2020 -0500
+
+    fix#49
+
+[33mcommit 08d95599cea1387a4785d2a5633fdcb1197ea87b[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 21:28:52 2020 -0500
+
+    closes#49
+
+[33mcommit 82b6da2a3c6105d30013277de0515a4fd51bcbc1[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 21:22:37 2020 -0500
+
+    closes lucidbard#49
+
+[33mcommit ca77bcc8838ee881c2c6fd37d3ef43c1bf8bf8d1[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 21:20:01 2020 -0500
+
+    commit -m closes#49
+
+[33mcommit b552b4aa4ea64a91c88f88f6d76ce4eec41f4dea[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 21:15:22 2020 -0500
+
+    commit closes#49
+
+[33mcommit aceef0e2371662d63e74333abe8305e82140a515[m
+Author: HanniaDaniela <hanniamorales.hm@gmail.com>
+Date:   Thu Jan 16 21:11:30 2020 -0500
+
+    closes#49
+
+[33mcommit 1367e23308e334ea8d928b2e2e6f6adcef97994c[m
+Author: Hannia <37131044+HanniaDaniela@users.noreply.github.com>
+Date:   Thu Jan 16 19:31:38 2020 -0500
+
+    Update README.md
+
+[33mcommit a18afd3611c1ff2df9e108a79bb6a2740aba311c[m
+Author: John Murray <lucidbard@users.noreply.github.com>
+Date:   Mon Jan 13 08:15:48 2020 -0500
+
+    Added template files for folders to appear
+
+[33mcommit b28d481bd1429313b4b2caa1747baaff6b73e6b8[m
+Author: John Murray <lucidbard@users.noreply.github.com>
+Date:   Sun Jan 5 10:44:51 2020 -0500
+
+    Initial commit
