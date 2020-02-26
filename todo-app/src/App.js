@@ -44,9 +44,9 @@ class TodoList extends React.Component {
     name ="hideCompletedItems" value="hideCompletedItems" 
     onChange={(e) => this.setState({hideCompletedItems: e.target.checked})}/>
     <label htmlFor="hideCompletedItems">I have a bike</label><br></br>
-    { ((this.state.hideCompletedItems) ? todoList
-    .filter((v) => !v.completed) : todoList)
-    .map((v) => <TodoItem key={v.id} content={v.content}
+    { ((this.state.hideCompletedItems) ? this.state.todoList
+    .filter((v) => !v.completed) : this.state.todoList)
+    .map((v) => <TodoItem key={v.id}  id={v.id} removeTask={(id) => this.removeTask(id)} content={v.content}
       priority={v.priority}
       completed={v.completed} />) }
       </>)
