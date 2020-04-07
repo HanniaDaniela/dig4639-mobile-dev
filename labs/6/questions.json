@@ -1,0 +1,107 @@
+[
+    {
+      "question": "BTS was the first Korean Group (ever) to perform and sell out which stadium?",
+      "answers" :
+      [
+        {"text": "Rosebowl",
+        "correct": false
+        },
+        {
+          "text": "Metlife",
+          "correct": false
+        },
+        {
+          "text": "Wembley",
+          "correct": true
+        },
+        {
+          "text": "Tokyo Dome",
+          "correct": false
+        } 
+      ]
+    },
+    {
+      "question": "During what year did BTS get their first Daesang award?",
+      "answers": [
+        {
+          "text": "2018",
+          "correct": false
+        },
+        {
+          "text": "2016",
+          "correct": true
+        },
+        {
+          "text": "2014",
+          "correct": false
+        },
+        {
+          "text": "2012",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "BTS member Jin, has an eating show called ____?",
+      "answers": [
+        {
+          "text": "Jin Talks",
+          "correct": true
+        },
+        {
+          "text": "EatJin",
+          "correct": true
+        },
+        {
+          "text": "Jin Time",
+          "correct": false
+        },
+        {
+          "text": "Jin Eats!",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Which BTS member wants to reincarnate as a rock in his next life?",
+      "answers": [
+        {
+          "text": "Jungkook",
+          "correct": false
+        },
+        {
+          "text": "Hoseok",
+          "correct": false
+        },
+        {
+          "text": "Jin",
+          "correct": false
+        },
+        {
+          "text": "Yoongi",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Finish the BTS lyric: 'I run endlessly towards my ____' ",
+      "answers": [
+        {
+          "text": "Dream",
+          "correct": true
+        },
+        {
+          "text": "Destiny",
+          "correct": false
+        },
+        {
+          "text": "Love",
+          "correct": false
+        },
+        {
+          "text": "Freedom",
+          "correct": false
+        }
+      ]
+    }
+  ]
