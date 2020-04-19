@@ -50,6 +50,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#e1f3e4'
   },
   contentContainer: {
-    paddingTop: 15
+    paddingTop: 10
   }
 })
